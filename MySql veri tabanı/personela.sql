@@ -1,0 +1,2 @@
+INSERT INTO `personela` (`id`, `Ad`, `Soyad`, `Cinsiyet`, `Departman`, `maas`, `eposta`, `giristarihi`) VALUES (13, 'sad', 'd', 'Erkek', 'Bilişim Teknolojileri', '5345', 'fsdf', '16 Ekim 2024 Çarşamba');
+INSERT INTO `personela` (`id`, `Ad`, `Soyad`, `Cinsiyet`, `Departman`, `maas`, `eposta`, `giristarihi`) VALUES (14, 'sad', 'd', 'Erkek', 'Bilişim Teknolojileri', '5345', 'fsdf', '16 Ekim 2024 Çarşamba');
